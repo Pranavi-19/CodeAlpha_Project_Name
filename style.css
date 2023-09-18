@@ -1,0 +1,54 @@
+body{
+    padding: 50px 100px;
+}
+h1{
+    text-align: center;
+    color: darkslateblue;
+}
+#temperature-form{
+    text-align: center;
+    background-color: coral;
+    padding: 50px;
+}
+label{
+    font-size: 22px;
+    color: darkslateblue;
+    font-weight: bold;
+}
+#input-scale{
+    padding: 5px 10px;
+    margin: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    width: 100px;
+}
+#output-scale{
+    padding: 5px 10px;
+    margin: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    width: 100px;
+}
+#temperature{
+    padding: 5px 10px;
+    margin: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    width: 100px;
+}
+#convert-button{
+    text-align: center;
+    padding: 5px 10px;
+    margin: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    width: 100px;
+}
+#result{
+    padding: 5px 10px;
+    margin: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    width: 100px;
+    display: inline;
+}
